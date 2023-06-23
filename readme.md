@@ -13,7 +13,7 @@ Run docker image:
 
 
 ### Setup local debug for docker container
-![Local debug for Docker container]()
+![Local debug for Docker container](https://github.com/prybialek/wonderful-moments/assets/23725961/b1a9d5cd-24f7-47b5-a80f-873598ae94e0)
 
 
 ### How to deploy war package on Tomcat
